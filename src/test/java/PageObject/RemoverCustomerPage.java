@@ -4,9 +4,7 @@ import static org.junit.Assert.assertEquals;
 import java.awt.AWTException;
 import java.io.IOException;
 import java.util.concurrent.TimeUnit;
-
 import Config.DriverFactory;
-import org.openqa.selenium.By;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 

@@ -1,10 +1,7 @@
 package PageObject;
 
 import static org.junit.Assert.assertEquals;
-
 import java.io.IOException;
-import java.util.concurrent.TimeUnit;
-
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.Select;
 import org.openqa.selenium.support.ui.WebDriverWait;

@@ -2,8 +2,6 @@ package TestAutomationRunner;
 
 import java.awt.AWTException;
 import java.io.IOException;
-import java.util.concurrent.TimeUnit;
-
 import org.junit.After;
 import org.junit.Test;
 import PageObject.RemoverCustomerPage;

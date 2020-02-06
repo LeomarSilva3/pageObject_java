@@ -1,7 +1,0 @@
-Config\IConstants.class
-TestAutomationRunner\CadastroCustomerValidation.class
-PageObject\Utils.class
-Config\DriverFactory.class
-PageObject\RemoverCustomerPage.class
-TestAutomationRunner\RemoveCustomerValidation.class
-PageObject\CadastroCustomerPage.class
