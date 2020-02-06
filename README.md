@@ -12,6 +12,11 @@
 ### - Java
 ### - Maven (Gerenciador de dependências)
 
+## Instalação de dependências
+    mvn install
+     
+
+
 
 
 
